@@ -6,7 +6,7 @@
             <!-- 필수 속성 -->
             <property name="javax.persistence.jdbc.driver" value="com.mysql.cj.jdbc.Driver"/>
             <property name="javax.persistence.jdbc.user" value="root"/>
-            <property name="javax.persistence.jdbc.password" value="#james007#"/>
+            <property name="javax.persistence.jdbc.password" value="1234"/>
             <property name="javax.persistence.jdbc.url" value="jdbc:mysql://localhost:3306/jpa_study?characterEncoding=UTF-8&amp;serverTimezone=UTC"/>
 
             <!-- 하이버네이트 사용 시 다른 DB에서 MySQL 문법을 사용 가능하도록 변경.-->
